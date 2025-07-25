@@ -22,8 +22,6 @@ This repository contains a set of MATLAB scripts for performing calculations rel
     * A function to calculate the minimum number of theoretical trays (Nmin) at total reflux when x-y equilibrium data is provided.
     * Graphically steps off the minimum trays using the provided x-y data.
 
-### Getting Started
-
 ### Prerequisites
 
 * MATLAB or GNU Octave
