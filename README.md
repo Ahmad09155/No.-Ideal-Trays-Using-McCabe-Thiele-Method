@@ -28,9 +28,7 @@ This repository contains a set of MATLAB scripts for performing calculations rel
 
 ## Author
 
-Ahmad M. Hassan 
-
-Chemical Engineering Student | Sudan
+Ahmad M. Hassan | Sudan
 
 Chemical engineering student interested in process simulation and engineering problem-solving through MATLAB and Python coding.
 
